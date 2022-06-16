@@ -117,7 +117,7 @@
 
 /* line 23, ../../../../../Documents/GitHub/Techdegree-Project-4-Style-Guide/scss/component/_grid.scss */
 .theme.col-1 {
-  background-color: #927bc1;
+  background-color: 'info';
 }
 
 /* line 27, ../../../../../Documents/GitHub/Techdegree-Project-4-Style-Guide/scss/component/_grid.scss */
@@ -157,17 +157,17 @@
 
 /* line 55, ../../../../../Documents/GitHub/Techdegree-Project-4-Style-Guide/scss/component/_grid.scss */
 .theme.col-9 {
-  background-color: #e4757a;
+  background-color: 'error';
 }
 
 /* line 59, ../../../../../Documents/GitHub/Techdegree-Project-4-Style-Guide/scss/component/_grid.scss */
 .theme.col-10 {
-  background-color: #63cc82;
+  background-color: 'success';
 }
 
 /* line 63, ../../../../../Documents/GitHub/Techdegree-Project-4-Style-Guide/scss/component/_grid.scss */
 .theme.col-11 {
-  background-color: #51ddfc;
+  background-color: 'default';
 }
 
 /* line 67, ../../../../../Documents/GitHub/Techdegree-Project-4-Style-Guide/scss/component/_grid.scss */
